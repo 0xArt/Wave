@@ -1,10 +1,3 @@
-/*
-A simple sound library for CSE 20211 by Douglas Thain
-For course assignments, you should not change this file.
-For complete documentation, see:
-http://www.nd.edu/~dthain/courses/cse20211/fall2013/wavfile
-*/
-
 #include "stdafx.h"
 
 #include "wavfile.h"
